@@ -13,3 +13,5 @@ The computational data-driven approach leverages Machine Learning to predict whi
 The result? A win-win scenario where customers receive tailored offers that meet their needs, and the app maximizes revenue while minimizing advertisement costs.
 
 This innovative approach highlights the power of machine learning in understanding customer behavior and creating personalized marketing strategies. By focusing on users who need a little extra incentive, this strategy ensures resources are used efficiently and effectively, leading to higher customer satisfaction and business growth.
+
+Conflict of Interest:- This is a research based project carried out on individual basis with personal interest as the prospect of personal development into the domain. It doesn't contain any organization or external interference and not build for commercial sales prospect.
